@@ -368,14 +368,22 @@ textarea {
   box-sizing: border-box; }
 
 img {
-  width: 100%;
   display: block; }
 
 #app-container {
-  font-family: Helvetica, sans-serif; }
+  font-family: Helvetica, sans-serif;
+  background-color: black; }
 
-.profile {
-  background-color: black;
+h1, h2, h3, h4 {
+  font-family: 'Gloria Hallelujah', cursive;
   color: white; }
+
+i {
+  position: fixed;
+  top: 5px;
+  right: 5px; }
+
+span {
+  border-radius: 10px; }
 
 /*# sourceMappingURL=styles.css.map */
